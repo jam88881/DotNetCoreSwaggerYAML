@@ -1,0 +1,14 @@
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\bin\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.deps.json
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\bin\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.runtimeconfig.json
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\bin\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.runtimeconfig.dev.json
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\bin\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.dll
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\obj\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.csprojAssemblyReference.cache
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\obj\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.csproj.CoreCompileInputs.cache
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\obj\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.RazorAssemblyInfo.cache
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\obj\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.RazorAssemblyInfo.cs
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\obj\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.AssemblyInfoInputs.cache
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\obj\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.AssemblyInfo.cs
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\obj\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.RazorTargetAssemblyInfo.cache
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\bin\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.pdb
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\obj\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.dll
+C:\Gitjam88881\DotNetCoreSwaggerYAML\DotNetCoreSwaggerYAML\obj\Debug\netcoreapp2.1\DotNetCoreSwaggerYAML.pdb
